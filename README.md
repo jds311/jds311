@@ -19,7 +19,7 @@ Hello World, Jeet this side!! <img src="https://github.com/jds311/jds311/blob/ma
 I am a final year B.Tech student at Ahmedabad University. With a passion for technology and a mindset to deliver impactful applications that solve real life problems, I stay motivated to widen my knowledge and always ready to learn new things. As a believer in teamwork and with my technical skills, I envision an exciting future in the industry.
 - 🔭 I am currently leading the team working on **<a href="https://www.mijwan.org/rozgar-dhaba/">Rozgar Dhaba</a>** mobile application in collaboration with **<a href="https://www.mijwan.org/">Mijwan Welfare Society</a>**.
 - 🌱 Currently I am etensively exploring technologies like **machine learning, deep learning, graphical models and data science.**
--  📄 Know about my experiences **<a href="">here</a>**
+-  📄 Know more about me **<a href="">here</a>**
 -  🔧 All my projects are hosted on my profile. Feel free to move around in case you're looking for ideas or contributions.
 
 
@@ -114,3 +114,8 @@ I am a final year B.Tech student at Ahmedabad University. With a passion for tec
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jds311&show_icons=true&locale=en&layout=compact" alt="Jeet Shah" /><br> -->
 
 <hr>
+
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jds311&show_icons=true&locale=en&layout=compact" alt="yashrajkakkad" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jds311&show_icons=true&locale=en" alt="yashrajkakkad" /></p>
+ -->
