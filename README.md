@@ -115,7 +115,6 @@ I am a final year B.Tech student at Ahmedabad University. With a passion for tec
 
 <hr>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jds311&show_icons=true&locale=en&layout=compact" alt="yashrajkakkad" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jds311&show_icons=true&locale=en&layout=compact" alt="jeetShah" /></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jds311&show_icons=true&locale=en" alt="yashrajkakkad" /></p>
- -->
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jds311&show_icons=true&locale=en" alt="jeetShah" /></p> -->
