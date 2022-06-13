@@ -1,5 +1,5 @@
 <h1 align = "left">
-Hello World, Jeet this side!! <img src="https://github.com/jds311/jds311/blob/master/hiGif.gif" width="35px">
+Hello World, Jeet this side!! <img src="https://github.com/jds311/jds311/blob/master/hiGif.gif" height="35px" width="35px">
 </h1>
 <a href="https://www.linkedin.com/in/jeet-shah-3b9a821a4/">
   <img align="left" alt="Jeet's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
